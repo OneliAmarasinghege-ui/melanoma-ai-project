@@ -1,0 +1,10 @@
+{
+  "recovered_notebook_files": 69,
+  "distinct_original_notebooks": 49,
+  "working_notebooks": 10,
+  "syntax_issues": [],
+  "app_python_syntax": "passed",
+  "trained_weights_included": false,
+  "training_or_inference_rerun": false,
+  "github_embedded_notebook_outputs": "cleared; original saved outputs remain in the separate project ZIP"
+}

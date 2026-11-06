@@ -1,0 +1,2 @@
+# Skin Review application only; other notebooks use their own setup cells.
+-r software/requirements.txt
